@@ -21,10 +21,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> About Me
 
 ```yaml
@@ -119,7 +115,6 @@ hobbies: ["Coding", "Data Analysis", "Competitive Programming"]
 <td width="50%">
 <h3 align="center">🔐 Real-Time Fraud Detection System</h3>
 <div align="center">
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/🔗_View_Project-6DB33F?style=for-the-badge" alt="View Project"/></a>
 <p><strong>Event-driven microservices architecture</strong></p>
 <p>
 • Microservices using <strong>Spring Boot & Kafka</strong><br>
@@ -140,7 +135,6 @@ hobbies: ["Coding", "Data Analysis", "Competitive Programming"]
 <td width="50%">
 <h3 align="center">📄 SkillScan – Resume Screening</h3>
 <div align="center">
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/🔗_View_Project-6DB33F?style=for-the-badge" alt="View Project"/></a>
 <p><strong>Automated resume-to-job matching system</strong></p>
 <p>
 • Rule-based matching algorithm<br>
@@ -163,7 +157,6 @@ hobbies: ["Coding", "Data Analysis", "Competitive Programming"]
 <td width="50%">
 <h3 align="center">🛒 Customer Shopping Behavior Analysis</h3>
 <div align="center">
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/🔗_View_Project-6DB33F?style=for-the-badge" alt="View Project"/></a>
 <p><strong>Data-driven customer segmentation</strong></p>
 <p>
 • Cleaned and analyzed customer transaction data<br>
