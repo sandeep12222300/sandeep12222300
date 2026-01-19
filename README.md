@@ -186,6 +186,7 @@ hobbies: ["Coding", "Data Analysis", "Competitive Programming"]
 ## 🏆 Achievements & Recognition
 
 <table>
+<div align="center">
   <tr>
     <td align="center" width="33%">
       <img src="https://img.shields.io/badge/🥇-Salesforce_Developer-00A1E0?style=for-the-badge"/>
@@ -203,6 +204,7 @@ hobbies: ["Coding", "Data Analysis", "Competitive Programming"]
       <br><em>Participant & Innovator</em>
     </td>
   </tr>
+</div>
 </table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
